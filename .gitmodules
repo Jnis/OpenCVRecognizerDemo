@@ -1,0 +1,3 @@
+[submodule "OpenCVRecognizer"]
+	path = OpenCVRecognizer
+	url = git@github.com:Jnis/OpenCVRecognizer.git

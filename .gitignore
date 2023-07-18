@@ -7,3 +7,6 @@ DerivedData/
 .swiftpm/config/registries.json
 .swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
 .netrc
+
+# download OpenCV manually from https://opencv.org/releases/ (~500mb)
+opencv2.framework
